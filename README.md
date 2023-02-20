@@ -10,7 +10,7 @@
 Neste exato momento você deve estar pensando que se 250 corresponde ao salário da classe 1, porque ele está armazenado no índice 0 do vetor?  
 É por isso que vem a lógica do `salario[ClasseDoFuncionario - 1]`, que serve para pegar o salário correto quando o usuário dar como entrada a sua classe**
 
-**A segunda parte eu utilizei um lógica parecida com a anterior, o `TotalFuncionariosEmCadaClasse[ClasseDoFuncionario - 1]++` vai ser usado na saída para mostrar cada classe com sua respectiva quantidade de funcionários. Exemplo:**  
+**A segunda parte eu utilizei um lógica parecida com a anterior, o `TotalFuncionariosEmCadaClasse[ClasseDoFuncionario - 1]++` vai ser usado para mostrar cada classe com sua respectiva quantidade de funcionários. Exemplo:**  
 **Dei como entrada a classe 1 -> TotalFuncionariosEmCadaClasse[1 - 1]++ que pode ser descrito também como TotalFuncionariosEmCadaClasse[0]++ que vai adicionar o valor 1 no índice 0, pois incrementou.**  
 
 
