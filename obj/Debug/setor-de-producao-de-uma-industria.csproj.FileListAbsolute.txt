@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\ESCOLA\LOGP\setor-de-producao-de-uma-industria\bin\Debug\setor-de-producao-de-uma-industria.exe.config
+C:\Users\PC\Documents\ESCOLA\LOGP\setor-de-producao-de-uma-industria\bin\Debug\setor-de-producao-de-uma-industria.exe
+C:\Users\PC\Documents\ESCOLA\LOGP\setor-de-producao-de-uma-industria\bin\Debug\setor-de-producao-de-uma-industria.pdb
+C:\Users\PC\Documents\ESCOLA\LOGP\setor-de-producao-de-uma-industria\obj\Debug\setor-de-producao-de-uma-industria.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\ESCOLA\LOGP\setor-de-producao-de-uma-industria\obj\Debug\setor-de-producao-de-uma-industria.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\ESCOLA\LOGP\setor-de-producao-de-uma-industria\obj\Debug\setor-de-producao-de-uma-industria.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\ESCOLA\LOGP\setor-de-producao-de-uma-industria\obj\Debug\setor-de-producao-de-uma-industria.exe
+C:\Users\PC\Documents\ESCOLA\LOGP\setor-de-producao-de-uma-industria\obj\Debug\setor-de-producao-de-uma-industria.pdb
